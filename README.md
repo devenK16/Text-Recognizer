@@ -28,4 +28,7 @@ An Android app that can recognize text from an image with the help of Machine Le
 • Linkify
 
 # Screenshots
-
+<img src = "https://github.com/devenK16/Text-Recognizer/blob/master/images/1.jpg" width = "250" height = "550"/><img src = "https://github.com/devenK16/Text-Recognizer/blob/master/images/2.jpg" width = "250" height = "550"/>
+<img src = "https://github.com/devenK16/Text-Recognizer/blob/master/images/3.jpg" width = "250" height = "550"/>
+<img src = "https://github.com/devenK16/Text-Recognizer/blob/master/images/4.jpg" width = "250" height = "550"/>
+<img src = "https://github.com/devenK16/Text-Recognizer/blob/master/images/5.jpg" width = "250" height = "550"/>
